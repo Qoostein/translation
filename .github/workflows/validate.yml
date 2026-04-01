@@ -1,0 +1,16 @@
+name: Validate locales
+
+on:
+  push:
+    branches: [main, master]
+  pull_request:
+    branches: [main, master]
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Validate locale JSON keys
+        run: python3 scripts/validate.py
