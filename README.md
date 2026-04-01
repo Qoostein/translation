@@ -4,6 +4,8 @@ I’ve been getting a lot of requests to translate Retro into other languages an
 
 Strings are **in-app** language (independent of the system locale).
 
+[![Discord](https://badgen.net/discord/members/6v9TEhn)](https://discord.retromusic.co/)
+
 ## Layout
 
 | Path | Purpose |
