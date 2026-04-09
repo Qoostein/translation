@@ -36,4 +36,7 @@ python3 scripts/validate.py
 - French (`fr`)
 - Japanese (`ja`)
 - Korean (`ko`)
+- Norwegian (`no`)
+- Portuguese (`pt`)
+- Russian (`ru`)
 - Chinese (`zh`)
